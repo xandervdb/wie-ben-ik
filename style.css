@@ -1,0 +1,22 @@
+body {
+    background: url("achtergrond.jpg")
+}
+p {
+    border: 1px solid black;
+    outline-color: #FF0000;
+    width: 500px;
+    height: 250x;
+}
+
+
+section.contact{
+    color: #8A0885;
+    background-color: rgba(2, 247, 255, 0.00);
+    bottom: -500px;
+    right: 0px;
+    position: absolute;
+}
+
+body  {
+    color: #8A0885;
+}
